@@ -1,0 +1,10 @@
+E:\Personal-Finance-Tracker\Personal Finance Tracker\Personal Finance Tracker\bin\Debug\Personal Finance Tracker.exe.config
+E:\Personal-Finance-Tracker\Personal Finance Tracker\Personal Finance Tracker\bin\Debug\Personal Finance Tracker.exe
+E:\Personal-Finance-Tracker\Personal Finance Tracker\Personal Finance Tracker\bin\Debug\Personal Finance Tracker.pdb
+E:\Personal-Finance-Tracker\Personal Finance Tracker\Personal Finance Tracker\obj\Debug\Personal Finance Tracker.csproj.AssemblyReference.cache
+E:\Personal-Finance-Tracker\Personal Finance Tracker\Personal Finance Tracker\obj\Debug\Personal_Finance_Tracker.Form1.resources
+E:\Personal-Finance-Tracker\Personal Finance Tracker\Personal Finance Tracker\obj\Debug\Personal_Finance_Tracker.Properties.Resources.resources
+E:\Personal-Finance-Tracker\Personal Finance Tracker\Personal Finance Tracker\obj\Debug\Personal Finance Tracker.csproj.GenerateResource.cache
+E:\Personal-Finance-Tracker\Personal Finance Tracker\Personal Finance Tracker\obj\Debug\Personal Finance Tracker.csproj.CoreCompileInputs.cache
+E:\Personal-Finance-Tracker\Personal Finance Tracker\Personal Finance Tracker\obj\Debug\Personal Finance Tracker.exe
+E:\Personal-Finance-Tracker\Personal Finance Tracker\Personal Finance Tracker\obj\Debug\Personal Finance Tracker.pdb
