@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Personal-Finance-Tracker\\Personal Finance Tracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44276B76-9E61-4788-9EFC-405B8905A521}|Personal Finance Tracker\\Personal Finance Tracker.csproj|e:\\personal-finance-tracker\\personal finance tracker\\personal finance tracker\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44276B76-9E61-4788-9EFC-405B8905A521}|Personal Finance Tracker\\Personal Finance Tracker.csproj|solutionrelative:personal finance tracker\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44276B76-9E61-4788-9EFC-405B8905A521}|Personal Finance Tracker\\Personal Finance Tracker.csproj|E:\\Personal-Finance-Tracker\\Personal Finance Tracker\\personal finance tracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44276B76-9E61-4788-9EFC-405B8905A521}|Personal Finance Tracker\\Personal Finance Tracker.csproj|solutionrelative:personal finance tracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44276B76-9E61-4788-9EFC-405B8905A521}|Personal Finance Tracker\\Personal Finance Tracker.csproj|E:\\Personal-Finance-Tracker\\Personal Finance Tracker\\personal finance tracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44276B76-9E61-4788-9EFC-405B8905A521}|Personal Finance Tracker\\Personal Finance Tracker.csproj|solutionrelative:personal finance tracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "E:\\Personal-Finance-Tracker\\Personal Finance Tracker\\Personal Finance Tracker\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Personal Finance Tracker\\Form1.Designer.cs",
+              "ToolTip": "E:\\Personal-Finance-Tracker\\Personal Finance Tracker\\Personal Finance Tracker\\Form1.Designer.cs",
+              "RelativeToolTip": "Personal Finance Tracker\\Form1.Designer.cs",
+              "ViewState": "AgIAAHQBAAAAAAAAAAAYwAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:31:57.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Personal-Finance-Tracker\\Personal Finance Tracker\\Personal Finance Tracker\\Form1.cs",
+              "RelativeDocumentMoniker": "Personal Finance Tracker\\Form1.cs",
+              "ToolTip": "E:\\Personal-Finance-Tracker\\Personal Finance Tracker\\Personal Finance Tracker\\Form1.cs",
+              "RelativeToolTip": "Personal Finance Tracker\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:31:27.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\Personal-Finance-Tracker\\Personal Finance Tracker\\Personal Finance Tracker\\Form1.cs",
+              "RelativeDocumentMoniker": "Personal Finance Tracker\\Form1.cs",
+              "ToolTip": "E:\\Personal-Finance-Tracker\\Personal Finance Tracker\\Personal Finance Tracker\\Form1.cs [Design]",
+              "RelativeToolTip": "Personal Finance Tracker\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T09:31:19.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
